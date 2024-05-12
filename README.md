@@ -4,7 +4,7 @@ Quick Start:
     * Create an Environment File: Duplicate the provided `.env.example` file and rename it to `.env`. Fill out the necessary details. <br>
 2. Configure MinIO <br>
     * Run the MinIO using Docker compose:
-        * Execute the command: `docker compose up -d --build` <br>
+        * Run the command: `docker compose up -d --build` <br>
     * Set Up MinIO: <br>
       * Access the MinIO web interface by navigating to `http://localhost:9090`. <br>
       * Create a Bucket: In the MinIO interface, create a new bucket and note the bucket name. <br>
